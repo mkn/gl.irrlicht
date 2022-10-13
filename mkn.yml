@@ -1,0 +1,6 @@
+
+name: irrlicht
+
+inc: include
+lib: IrrlichtMt
+path: lib
